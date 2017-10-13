@@ -1,2 +1,3 @@
 # blog
 my first blog
+in this blog I'm gonna post lots of goodies...
